@@ -36,7 +36,6 @@ body {
 }
 
 .donate-area {
-    background: #FFFFF7;
     margin: 0 auto;
     text-align: center;
 }
@@ -57,6 +56,32 @@ body {
 p{
     font-size: 27px;
 }
-.clild-5{
-   bor
+.divide-5{
+    border: 5px;
+box-shadow: gray;
+}
+.tk{
+    border: #FF646A;
+    justify-content: flex-start;
+}
+.plan{
+    font-size: 50px;
+}
+.click{
+    width: 70px;
+    border: 5px solid yellowgreen;
+    text-align: center;
+}
+.Donate-plan{
+    font-size: 50px;
+    width: 300px;
+    height: 300px;
+    text-align: center;
+}
+.be{
+    font-style: italic;
+}
+.do-it{
+    contain: content;
+    background-color: gray;
 }
