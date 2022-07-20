@@ -1,23 +1,25 @@
 body {
     margin: 0;
     padding: 0;
+    width: 1600px;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .hero-area {
     color: #fff;
-    width: 1600px;
-    margin: 0 auto;
     background: url(images/ss.jpg);
-    min-height: 60vh;
+    min-height: 70vh;
     background-repeat: no-repeat;
     margin: 0 auto;
-    text-align: center;
     background-position: center center;
 }
-.p{
+
+.p {
     font-size: 30px;
 }
-.donate-now{
+
+.donate-now {
     background: #FF646A;
     border-radius: 5px;
     padding: 10px 20px;
@@ -30,9 +32,31 @@ body {
     padding-top: 200px;
     margin: 0;
     font-size: 60px;
+    font-weight: bold;
 }
 
 .donate-area {
+    background: #FFFFF7;
     margin: 0 auto;
     text-align: center;
+}
+
+.w-70 {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+}
+.divide-5{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+.donate-h1{
+    font-size: 50px;
+}
+p{
+    font-size: 27px;
+}
+.clild-5{
+   bor
 }
