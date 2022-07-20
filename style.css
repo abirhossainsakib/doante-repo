@@ -1,9 +1,10 @@
-body{
+body {
     margin: 0;
     padding: 0;
 }
 
-.hero-area{
+.hero-area {
+    color: #fff;
     width: 1600px;
     margin: 0 auto;
     background: url(images/ss.jpg);
@@ -11,42 +12,27 @@ body{
     background-repeat: no-repeat;
     margin: 0 auto;
     text-align: center;
+    background-position: center center;
 }
-.hero-h1{
-   padding-top: 200px;
-   margin: 0;
+.p{
+    font-size: 30px;
 }
-.donate-area{
-    margin: 0 auto;
-    text-align: center;
-}
-.flexible-container{
-    display: flex;
-    font-size: 20px;
-    padding: 25px;
-    
-}
-.h-w{
-   text-align:center;
-   padding: 10px;
-   
-}
-#ox{
-    text-align: center;
-    padding: 10px;
-}
-.no{
-text-align: center;
-margin: 0 auto;
-}
-.no{
-    text-align: center;
-    margin: 0 auto;
-    padding: 25px;
-}
-.aa{
-text-align: center;
-margin: 0 auto;
-padding: 35px;
+.donate-now{
+    background: #FF646A;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: #fff;
+    outline: none;
+    border: none;
 }
 
+.hero-h1 {
+    padding-top: 200px;
+    margin: 0;
+    font-size: 60px;
+}
+
+.donate-area {
+    margin: 0 auto;
+    text-align: center;
+}
